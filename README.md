@@ -1,7 +1,7 @@
 # ATM App
 An ATM App console application written in C#
 
-The ATM App is able to do:
+The ATM App is able to:
 - Login account with card number and pin
 - Check account balance
 - Deposit amount
