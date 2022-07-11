@@ -2,7 +2,7 @@
 An ATM App written in C#
 
 The ATM App is able to do:
--Login account with card number and pin
+--Login account with card number and pin
 -Check account balance
 -Deposit amount
 -Withdrawal amount
