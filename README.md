@@ -1,5 +1,5 @@
 # ATM App
-An ATM App is a console application written in C#
+An ATM App console application written in C#
 
 The ATM App is able to do:
 - Login account with card number and pin
